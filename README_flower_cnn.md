@@ -93,15 +93,5 @@ python train.py
 - ⏳ 強化影像增強（如 Cutout, Color Jitter）
 - ⏳ 嘗試動態學習率調整策略（Cosine Decay）
 
----
-
-## 📎 引用格式（若需）
-
-> 若將此專案引用於報告中，請使用：
-
-```
-XXX, "基於卷積神經網路的花卉影像分類", 國立XXX大學 XXX系 專題報告, 2025.
-GitHub: https://github.com/你的帳號/flower_cnn_classifier
-```
 
 
